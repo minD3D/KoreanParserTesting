@@ -1,3 +1,6 @@
+Korean parser guide
+--
+
 1. Make code for Korean parser
 sh terminalCodeConvert.ksh -n [script file] > [code file name].ksh
 
